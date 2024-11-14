@@ -26,3 +26,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 project setup
+
+Here in this Project we will slowly build our Features 
+
+UI Features
+1.  Theming Web page
+2. Font Size increase(A+) and decrease(A-)
+3. Different Language support (English, Hindi, Spain)
+4. Responsive from Lowest Mobile to Max sizes)
+5. Caching and Preloading, Offline support Service Worker
+6. Lazy Loading
+7. Keyboard Navigability, WCAG(Web Content Accessibility Guideline)
+8. Screen Reader.
+9. Content Security Policy 
+10. Input validation and Sanitisation (guard against Common vulnerabilities)
+11. Proper Async handling for API requests, loading State and error Mgt
+12. Type Safety everywhere( No : any declarations) 
+13. SSR or SSG(static site generation) for Better indexing and faster initial page load
+14. Unit Test cases to cover as low as 80% code
+15.  CI/CD Pipeline integration 
+16. Jenkins for automated build, Test and deployment
+17.  Advertisement banner component service So that I can change the banner from anyWhere no need to ReDeploy code,
+18. Offer and discounted Component Same as Above  
+19. Content decryption ( blank screen on record or ss )
